@@ -1,6 +1,4 @@
-# pradeep
-	#include <stdio.h>
-
+#include <stdio.h>
 int main() 
 {
   int i,j,a[100][100],n,mul=0,v=0,k=0,dia;
